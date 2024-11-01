@@ -133,7 +133,6 @@
 
 .biography h2 {
   font-size: 1.8rem; /* Tamaño de fuente para el título */
-  margin-bottom: 10px;
 }
 
 .biography p {
@@ -164,7 +163,6 @@
   height: 400px; /* Fija una altura consistente para todas las imágenes */
   object-fit: cover; /* Asegura que las imágenes se recorten sin distorsionarse */
   border-radius: 20px; /* Opcional: bordes redondeados para estética */
- 
 }
 
 .profile-gallery {
@@ -182,6 +180,7 @@
   font-size: 2rem; /* Tamaño de fuente para el título de la galería */
   color: #333;
   text-decoration: underline; /* Agrega el subrayado */
+  padding-left: 20px;
 }
 
 
